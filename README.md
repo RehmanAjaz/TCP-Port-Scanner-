@@ -64,7 +64,7 @@ datetime – Timestamped exports
 
 ⚙ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/port-scanner.git
+git clone https://github.com/RehmanAjaz/TCP-Port-Scanner.git
 cd port-scanner
 2️⃣ Run the Application
 python scanner.py
