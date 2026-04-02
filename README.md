@@ -6,7 +6,6 @@
 
 
 
-
 📌 Overview
 
 The Advanced TCP Port Scanner is a multi-threaded network scanning application built using Python and Tkinter.
